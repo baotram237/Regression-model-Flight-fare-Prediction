@@ -19,5 +19,6 @@
 - Feature engineering: Data encoding with Label Encoding and One-Hot Encoding
 - Forecast ticket prices (Decision Tree, Random Forest, K-Neighbor Regressions)
 
-![image](https://github.com/baotram237/flightfareprediction/assets/82713550/5d151f0c-cd86-407e-9e50-987f2706c3e8)
+![image](https://github.com/baotram237/Regression-model-Flight-fare-Prediction/assets/82713550/4503db9f-b8dc-448f-8ee9-1b186f4a09b2)
+
 
