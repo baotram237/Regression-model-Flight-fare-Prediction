@@ -12,7 +12,7 @@
 
 - The dataset (sourced from Kaggle, extracted from the booking website Ease My Trip - one of the leading travel companies in India) includes flight information for economy and business class tickets from six famous airlines in India, collected over a period of 50 days (11/02 - 31/03/2022), consisting of **300,261 rows** and **11 fields**.
 
-# Tasks:**
+# Tasks:
 - Data preprocessing
 - Exploratory data analysis
 - Identify buying patterns and underlying trends of pricing
